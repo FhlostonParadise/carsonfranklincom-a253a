@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: I think this will work.
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I'm a little happier with this idea moving ahead. I will take a bit more
+      effort up front, and I hate to lose any work already done, but eh...  It
+      is what it is.
   - section_id: about
     type: section_content
     title: About
