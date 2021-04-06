@@ -29,9 +29,6 @@ params:
       - label: Music
         url: /music/
         style: link
-      - label: Contact
-        url: /contact/
-        style: link
     has_social: true
     social_links:
       - label: Twitter
