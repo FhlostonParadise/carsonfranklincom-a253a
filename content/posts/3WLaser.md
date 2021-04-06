@@ -84,3 +84,5 @@ The solution?
 Dichroic Glass.
 
 This is a special glass that will reflect a certain wavelength of light while allowing all other wavelengths to pass through. Using these I was able to combine the 3 beams into a perfect coherent single beam with no divergence.
+
+![](/images/20210121\_153109.jpg)
