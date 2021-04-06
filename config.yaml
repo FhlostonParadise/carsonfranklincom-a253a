@@ -42,7 +42,7 @@ params:
         icon_class: instagram
         new_window: true
       - label: GitHub
-        url: 'https://github.com/'
+        url: 'https://github.com/fhlostonparadise'
         style: icon
         icon_class: github
         new_window: true
