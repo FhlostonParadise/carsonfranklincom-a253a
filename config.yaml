@@ -20,7 +20,7 @@ params:
       - label: Projects
         url: /projects/
         style: link
-      - label: Style Guide
+      - label: Professional
         url: /style-guide/
         style: link
       - label: Style Guide
