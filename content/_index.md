@@ -7,8 +7,8 @@ sections:
     title: 'More Detail, Less Noise'
     content: >
       This site continues the story when 140 characters just isn't going to cut
-      it. It also works as a archive and narrative that is much easier to
-      navigate than Social Media Newsfeeds.
+      it. It also works as an archive and on-going narrative that is much easier
+      to navigate than Social Media Newsfeeds.
   - section_id: about
     type: section_content
     title: About
