@@ -6,9 +6,9 @@ sections:
     type: section_hero
     title: 'More Detail, Less Noise'
     content: >
-      Social Media Newsfeeds fly by at a million miles per hour which make it
-      great for witty commentary on the days events, and terrible for keeping
-      track of the bigger picture. 
+      This site continues the story when 140 characters just isn't going to cut
+      it. It also works as a archive and narrative that is much easier to
+      navigate than Social Media Newsfeeds.
   - section_id: about
     type: section_content
     title: About
