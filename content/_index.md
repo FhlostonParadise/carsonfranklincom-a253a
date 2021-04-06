@@ -6,13 +6,9 @@ sections:
     type: section_hero
     title: 'More Detail, Less Noise'
     content: >
-      Ever since my first Geocities account (RIP), I've always had a special
-      place in my heart for personal websites. Social Media has left far less
-      room for them than ever, but I think as a tool for personal and
-      professional narratives they are more important than ever. The Newsfeeds
-      on Twitter and Facebook go flying by at lightspeed, and make it nearly
-      impossible to organize and highlight the things you want to be front and
-      center.
+      Social Media Newsfeeds fly by at a million miles per hour which make it
+      great for witty commentary on the days events, and terrible for keeping
+      track of the bigger picture. 
   - section_id: about
     type: section_content
     title: About
