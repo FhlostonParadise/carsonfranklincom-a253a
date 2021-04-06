@@ -13,10 +13,9 @@ sections:
     type: section_content
     title: About
     content: >
-      I like that there is a bit more room on the front page. I also like that
-      the posts aren't the only focus on the page. I think it should have room
-      to explain more about the site, than just ramming blog posts down your
-      throat.
+      Looking through some of my posts it might be difficult to determine which
+      projects are professional, and which are personal ones. I hope that will
+      always be the case. I try to put the same effort and passion into both.
     actions:
       - label: Contact Me
         url: /contact
