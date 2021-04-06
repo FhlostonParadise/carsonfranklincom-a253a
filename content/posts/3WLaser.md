@@ -36,6 +36,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
+excerpt: 'Lockdown '
 ---
 *Over the course of the 2020-2021 Pandemic I found myself with some extra time. Like many others, I took the opportunity to do some DIY projects. One of these (unlike many others) was a 3 Watt RGB Laser Projector system I built from (essentially) scratch. This post will be the narrative and thought process I put into it's design, build, and the lessons learned along the way.*
 
