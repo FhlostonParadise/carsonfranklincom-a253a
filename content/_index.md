@@ -6,9 +6,13 @@ sections:
     type: section_hero
     title: 'More Detail, Less Noise'
     content: >
-      I'm a little happier with this idea moving ahead. I will take a bit more
-      effort up front, and I hate to lose any work already done, but eh...  It
-      is what it is.
+      Ever since my first Geocities account (RIP), I've always had a special
+      place in my heart for personal websites. Social Media has left far less
+      room for them than ever, but I think as a tool for personal and
+      professional narratives they are more important than ever. The Newsfeeds
+      on Twitter and Facebook go flying by at lightspeed, and make it nearly
+      impossible to organize and highlight the things you want to be front and
+      center.
   - section_id: about
     type: section_content
     title: About
