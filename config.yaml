@@ -5,7 +5,7 @@ params:
   palette: blue
   header:
     title: Carson H. Franklin
-    tagline: Header Tagline
+    tagline: GenX / Millenial Daywalker
     profile_img: images/cfcom-256.png
     profile_img_alt: Author avatar
     background: dark
@@ -57,8 +57,7 @@ params:
         icon_class: dev
         new_window: true
   footer:
-    content: >-
-      &copy; Carson H Franklin. All rights reserved.
+    content: '&copy; Carson H Franklin. All rights reserved.'
   domain: 'https://carsonfranklincom-a253a.netlify.app'
 taxonomies:
   stub: stub
