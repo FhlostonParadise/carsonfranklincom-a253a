@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: I think this will work.
+    title: 'More Detail, Less Noise'
     content: >
       I'm a little happier with this idea moving ahead. I will take a bit more
       effort up front, and I hate to lose any work already done, but eh...  It
