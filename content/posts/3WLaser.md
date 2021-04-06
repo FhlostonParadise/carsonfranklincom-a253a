@@ -43,4 +43,31 @@ layout: post
 ---
 *Over the course of the 2020-2021 Pandemic I found myself with some extra time. Like many others, I took the opportunity to do some DIY projects. One of these (unlike many others) was a 3 Watt RGB Laser Projector system I built from (essentially) scratch. This post will be the narrative and thought process I put into it's design, build, and the lessons learned along the way.*
 
-#### It is critically important that anyone working around or near lasers that operate above 5 milliwatts of output power know the risks associated with these devices. I cannot emphasize enough how dangerous these lasers can be. They have enough power to cause permanent and irreversible damage to your eyes in less time than it takes to blink.&#xA;&#xA;
+#### It is critically important that anyone working around or near lasers that operate above 5 milliwatts of output power know the risks associated with these devices. I cannot emphasize enough how dangerous these lasers can be. They have enough power to cause permanent and irreversible damage to your eyes in less time than it takes to blink.
+
+
+
+When I used to play records in nightclubs and less "sanctioned" events I was always amazed at the laser systems the lighting guys would use. Something about a coherent beam of light cutting through the darkness that was amazing to me. With the lockdown from Covid-19 a lot of us had extra time to play with things. I did.
+
+I started out bouncing a beam from a laser pointer off a mirror. It was where my interest would have normally stopped. Not this time.
+
+![](/images/laser-mirror.png)
+
+If you make the mirror move, you can take a single point, and expand it into a line. If the mirror is moving fast enough we perceive it as a continuous plane. If you add a 2nd mirror and move them equally, you create a circle. If you can manipulate the distance, time, and power of the laser you can draw anything you want. Shapes, letters, numbers, and cool patterns that look crazy if the beam is fully visible.
+
+This seemed like the extent of the story. But I kept thinking that it would be awesome to make a full controlled system that could accept commands from a microcontroller and move accordingly. I started with an arduino and a couple stepper motors. I encountered my first set of problems.
+
+*   The Motors cannot move fast enough to make what appears to be a solid line.
+
+*   The voltage / current to the laser diode does not equal its brightness. It is either on, or off.
+
+*   It is horriffic to program.
+
+I decided to move from stepper motors to something that can move much quicker. I settled on using the actuator arm from old hard drives. If I attach the mirror to the arm (I actually made the mirrors from the hard drive platter) and apply a voltage to the arm, it moves, and it moves fast
+
+
+
+
+
+
+
