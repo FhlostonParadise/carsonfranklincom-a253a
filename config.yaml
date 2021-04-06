@@ -55,11 +55,7 @@ params:
         new_window: true
   footer:
     content: >-
-      &copy; Carson H Franklin. All rights reserved. This Jamstack site was created with
-      <a href="https://www.stackbit.com/?utm_source=deployed-footer"
-      target="_blank" rel="noopener">Stackbit</a>. Create yours <a
-      href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer"
-      target="_blank" rel="noopener">now</a>
+      &copy; Carson H Franklin. All rights reserved.
   domain: 'https://carsonfranklincom-a253a.netlify.app'
 taxonomies:
   stub: stub
