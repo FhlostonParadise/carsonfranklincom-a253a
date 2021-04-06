@@ -26,9 +26,6 @@ params:
       - label: Style Guide
         url: /style-guide/
         style: link
-      - label: About
-        url: /about/
-        style: link
       - label: Contact
         url: /contact/
         style: link
