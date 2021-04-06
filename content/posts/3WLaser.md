@@ -67,5 +67,24 @@ I decided to move from stepper motors to something that can move much quicker. I
 
 
 
-
 From here on out it became a battle to control the actuator arm with enough precision that it would move and return to expected points. After some more research it became clear that while the galvanometers in the hard drive were working, they were not sufficient or capable of accurately steering the beam where I wanted. It was time to go shopping.
+
+*Note: I used 1 power supply to power the galvo and amplifiers, and 1 to power everything else. I was starting to get a little close to pushing a single 15v to its limit. The 15v needs to send a +15v , and a -15v, along with a ground to the galvos. This is the voltage they operate at. Everything else was 12v.*
+
+
+
+## Why not add more lasers?
+
+Green is great. It is the most visible laser light to our eyes. But if we add a red laser in the 630nm wavelength and a blue laser in the 400'ish nm wavelength, we get a red + green + blue light which if balanced will make a pure white beam. This is the same basic color system we learn in graphic design.
+
+### Combining Light is Difficult
+
+How do we take 3 separate beams of light, and combine them into 1 that will maintain its coherence over a long distance? This was not easy and I wish I had looked more before trying to cook up a solution without assistance.
+
+I first attempted to combine them using miscellaneous mirrors and prisms at different angles. I can make them all join, but not for long. The end result was always 3 beams that could start close, but diverge right after.
+
+The solution?
+
+Dichroic Glass.
+
+This is a special glass that will reflect a certain wavelength of light while allowing all other wavelengths to pass through. Using these I was able to combine the 3 beams into a perfect coherent single beam with no divergence.
