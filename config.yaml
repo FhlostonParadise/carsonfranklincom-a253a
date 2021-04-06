@@ -27,7 +27,8 @@ params:
         url: /professional/
         style: link
       - label: Music
-      url
+        url: /music/
+        style: link
       - label: Contact
         url: /contact/
         style: link
