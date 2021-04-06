@@ -67,4 +67,5 @@ I decided to move from stepper motors to something that can move much quicker. I
 
 
 
+
 From here on out it became a battle to control the actuator arm with enough precision that it would move and return to expected points. After some more research it became clear that while the galvanometers in the hard drive were working, they were not sufficient or capable of accurately steering the beam where I wanted. It was time to go shopping.
