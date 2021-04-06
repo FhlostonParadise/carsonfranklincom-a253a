@@ -45,8 +45,6 @@ layout: post
 
 #### It is critically important that anyone working around or near lasers that operate above 5 milliwatts of output power know the risks associated with these devices. I cannot emphasize enough how dangerous these lasers can be. They have enough power to cause permanent and irreversible damage to your eyes in less time than it takes to blink.
 
-
-
 When I used to play records in nightclubs and less "sanctioned" events I was always amazed at the laser systems the lighting guys would use. Something about a coherent beam of light cutting through the darkness that was amazing to me. With the lockdown from Covid-19 a lot of us had extra time to play with things. I did.
 
 I started out bouncing a beam from a laser pointer off a mirror. It was where my interest would have normally stopped. Not this time.
@@ -61,13 +59,8 @@ This seemed like the extent of the story. But I kept thinking that it would be a
 
 *   The voltage / current to the laser diode does not equal its brightness. It is either on, or off.
 
-*   It is horriffic to program.
+*   It is a nightmare to program.
+
+
 
 I decided to move from stepper motors to something that can move much quicker. I settled on using the actuator arm from old hard drives. If I attach the mirror to the arm (I actually made the mirrors from the hard drive platter) and apply a voltage to the arm, it moves, and it moves fast
-
-
-
-
-
-
-
