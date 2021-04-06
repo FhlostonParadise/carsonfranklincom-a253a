@@ -14,7 +14,7 @@ params:
       - label: Home
         url: /
         style: link
-            - label: About
+      - label: About
         url: /about/
         style: link
       - label: Blog
