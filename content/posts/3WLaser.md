@@ -63,5 +63,5 @@ This seemed like the extent of the story. But I kept thinking that it would be a
 
 I decided to move from stepper motors to something that can move much quicker. I settled on using the actuator arm from old hard drives. If I attach the mirror to the arm (I actually made the mirrors from the hard drive platter) and apply a voltage to the arm, it moves, and it moves fast.
 
-{{< vimeo 146022717 >}}
+{{< vimeo 527491922 >}}
 
