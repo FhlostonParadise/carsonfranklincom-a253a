@@ -18,7 +18,7 @@ params:
         url: /blog/
         style: link
       - label: Projects
-        url: /style-guide/
+        url: /projects/
         style: link
       - label: Style Guide
         url: /style-guide/
