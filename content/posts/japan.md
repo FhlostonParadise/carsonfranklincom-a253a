@@ -4,7 +4,7 @@ excerpt: >-
   Some of the same tools I've implemented for clients have also been the same
   I've used for my companies. Interestingly enough, some of them also turned out
   to be the best tools to use in some personal projects too.
-date: '2019-03-24'
+date: '0002-03-24'
 thumb_img_path: images/2.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
 content_img_path: images/open-source.png
