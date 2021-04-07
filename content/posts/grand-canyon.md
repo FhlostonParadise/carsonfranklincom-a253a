@@ -4,7 +4,7 @@ excerpt: 'There are many like it, but this is my ATX Benchtop Power Supply...'
 date: '2021-03-10'
 thumb_img_path: images/20210210_235748.jpg
 thumb_img_alt: Hikers on the trail
-content_img_path: images/8.jpg
+content_img_path: images/20210210_235748.jpg
 content_img_alt: ATX PSU
 seo:
   title: Hiking The Grand Canyon
