@@ -5,7 +5,7 @@ date: '2019-03-10'
 thumb_img_path: images/20210210_235748.jpg
 thumb_img_alt: Hikers on the trail
 content_img_path: images/8.jpg
-content_img_alt: Hikers on the trail
+content_img_alt: ATX PSU
 seo:
   title: Hiking The Grand Canyon
   description: >-
