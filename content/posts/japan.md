@@ -5,7 +5,7 @@ excerpt: >-
   I've used for my companies. Interestingly enough, some of them also turned out
   to be the best tools to use in some personal projects too.
 thumb_img_path: images/open-source.png
-thumb_img_alt: Fushimi Inari Shrine in Kyoto
+thumb_img_alt: OpenSource Dashboard
 content_img_path: images/open-source.png
 content_img_alt: Fushimi Inari Shrine in Kyoto
 seo:
