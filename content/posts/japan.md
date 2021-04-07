@@ -41,6 +41,7 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: post
+date: '2021-03-24'
 ---
 Some of the same tools I've implemented for clients have also been the same I've used for my companies. Interestingly enough, some of them also turned out to be the best tools to use in some personal projects too. Many of these systems have excellent documentation, and incredible users who are fanatical about them, so instead of trying to start from step 1, I'll reference them and then spend more time on the reasons I may have done things differently. For the few cases where documentation or guidance is lacking, I'll do my best to fill in the gaps.
 
