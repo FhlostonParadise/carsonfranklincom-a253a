@@ -1,10 +1,9 @@
 ---
 title: Open Source Projects
 excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
+  Some of the same tools I've implemented for clients have also been the same
+  I've used for my companies. Interestingly enough, some of them also turned out
+  to be the best tools to use in some personal projects too.
 date: '2019-03-24'
 thumb_img_path: images/2.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
