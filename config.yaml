@@ -60,6 +60,7 @@ disableKinds:
   - RSS
   - taxonomy
   - taxonomyTerm
+disqusShortname: yourdiscussshortname
 markup:
   goldmark:
     renderer:
