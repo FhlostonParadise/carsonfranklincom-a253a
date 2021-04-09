@@ -1,6 +1,6 @@
 ---
 title: 3D Printing
-subtitle: lorem-ipsum
+subtitle: A
 date: '2021-04-09'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
