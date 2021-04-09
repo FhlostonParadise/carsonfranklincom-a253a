@@ -1,7 +1,7 @@
 ---
 title: 3D Printing
 subtitle: A Critical New Skill
-thumb_img_alt: 3D
+thumb_img_alt: 3D Printer
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
