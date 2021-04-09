@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 date: '2021-02-09'
+thumb_img_path: images/Ender5.jpg
 ---
 ## Lorem ipsum
 
