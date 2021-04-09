@@ -1,7 +1,6 @@
 ---
 title: 3D Printing
 subtitle: A Critical New Skill
-date: '2021-04-09'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
