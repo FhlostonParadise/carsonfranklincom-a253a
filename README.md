@@ -29,8 +29,6 @@ To start editing your site, you can edit the included Markdown files.
 
 Alternatively, you can use the free on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
 
-[![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
-
 
 
 ## Colophon
