@@ -3,7 +3,9 @@ title: 3D Printing
 subtitle: A Critical New Skill
 thumb_img_alt: 3D Printer
 content_img_alt: lorem-ipsum
-excerpt: 'A skill that will soon be far more '
+excerpt: >-
+  A skill that will soon be far more important to know than how to change the
+  oil in a car.
 seo:
   title: ''
   description: ''
