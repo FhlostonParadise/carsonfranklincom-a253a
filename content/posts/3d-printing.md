@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 3D Printing
 subtitle: lorem-ipsum
 date: '2021-04-09'
 thumb_img_alt: lorem-ipsum
