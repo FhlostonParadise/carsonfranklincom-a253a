@@ -53,7 +53,7 @@ params:
         new_window: true
   footer:
     content: '&copy; Carson H Franklin. All rights reserved.'
-  domain: 'https://carsonfranklincom-a253a.netlify.app'
+  domain: 'https://carsonfranklin.com'
 taxonomies:
   stub: stub
 disableKinds:
