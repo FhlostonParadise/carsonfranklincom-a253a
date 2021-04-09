@@ -2,7 +2,7 @@
 title: 3 Watt RGB Laser Projector
 date: '2021-03-27'
 thumb_img_path: images/laser.jpg
-thumb_img_alt: Icelandic horses
+thumb_img_alt: RGB Laser
 content_img_path: images/laser.jpg
 content_img_alt: Icelandic horses
 seo:
