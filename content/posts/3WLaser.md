@@ -85,4 +85,10 @@ Dichroic Glass.
 
 This is a special glass that will reflect a certain wavelength of light while allowing all other wavelengths to pass through. Using these I was able to combine the 3 beams into a perfect coherent single beam with no divergence.
 
+Below is a diagram of how it works. The image below that is how it was eventually laid out on the aluminum plate I was using for an optical table. I changed the design a bit to put all 3 laser in line with each other instead of the green laser being at the top. I did this to allow for a bit more flexibility with the beams. The mounts the glass mount to are adjustable. If the green laser was not bouncing off of a mirror, I would lose the ability to easily adjust it's beam like I could the red and blue.
+
+![](/images/dichro.png)
+
+
+
 ![](/images/20210121\_153109.jpg)
