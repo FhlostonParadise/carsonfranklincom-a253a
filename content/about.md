@@ -34,3 +34,9 @@ layout: page
 *I'll have all kinds of stuff here.*
 
 *Just not today.*
+
+**
+
+**
+
+*It will take a while to move over the things I had in the ghost site to work correctly. I attempted a migration. It was more work that it was worth.*
