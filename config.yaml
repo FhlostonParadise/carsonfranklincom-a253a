@@ -61,6 +61,7 @@ disableKinds:
   - taxonomy
   - taxonomyTerm
 disqusShortname: cfcom
+googleAnalytics: G-MEASUREMENT_ID
 markup:
   goldmark:
     renderer:
