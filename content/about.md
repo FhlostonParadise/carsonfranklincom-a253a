@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Gen-X / Millenial Daywalker and Information Systems Generalist
+subtitle: Gen-X / Millenial Daywalker and Information Technology Generalist
 img_path: images/cf-rf-mbayaq.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
