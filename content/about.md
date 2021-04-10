@@ -31,4 +31,4 @@ seo:
       relativeUrl: true
 layout: page
 ---
-*I never liked the term "generalist".*
+
