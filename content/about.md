@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: 'This is a short page about me, which is nowhere near done.'
+subtitle: Gen-X / Millenial
 img_path: images/cf-rf-mbayaq.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
