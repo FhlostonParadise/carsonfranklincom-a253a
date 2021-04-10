@@ -39,7 +39,7 @@ seo:
       value: Carson H. Franklin
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Not a facebook timeline.
       keyName: property
     - name: 'og:image'
       value: /images/ultra-dolphin.jpg
