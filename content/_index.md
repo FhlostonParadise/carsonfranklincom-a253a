@@ -42,7 +42,7 @@ seo:
       value: The preview of the Fresh theme
       keyName: property
     - name: 'og:image'
-      value: /images/cfcom-256.png
+      value: /images/ultra-dolphin.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
