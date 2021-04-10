@@ -31,15 +31,13 @@ seo:
       relativeUrl: true
 layout: page
 ---
-## I never liked the title "generalist".
+## I Never Liked the Title "Generalist"
 
-It sounds too similar to "generic". It also goes against the common misunderstanding that being a "specialist" in one certain area is preferable to being a generalist in many. That may be true for a database administrator or a React developer, but not for someone whose career revolves around advising clients on which technology may be best for them. 
+It sounds too similar to "generic". It also goes against the common misunderstanding that being a "specialist" in one certain area is preferable to being a generalist in many. That may be true for a database administrator or a React developer, but not for someone whose career revolves around advising clients on which technology may be best for them.
 
-Being an advocate for one "stack" or one vendor's solution is the easiest way to becoming the hammer that sees every problem as just another nail. I do my best to avoid polarization in technology. This is always an unfortunate result for "specialists". 
+Being an advocate for one "stack" or one vendor's solution is the easiest way to becoming the hammer that sees every problem as just another nail. I do my best to avoid polarization in technology. This is always an unfortunate result for "specialists".
 
-I think claims that "Linux is Best", "Apple is far superior to any Android device", and even the browser wars are counter-productive. I have my preferences just like anyone does, but what works best for me is certainly not guaranteed to be the best for you. 
-
-
+I think claims that "Linux is Best", "Apple is far superior to any Android device", and even the browser wars are counter-productive. I have my preferences just like anyone does, but what works best for me is certainly not guaranteed to be the best for you.
 
 ## The Gen-X / Millenial Daywalker
 
