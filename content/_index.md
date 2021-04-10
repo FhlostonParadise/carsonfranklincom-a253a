@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: Carson H. Franklin
-  description: The preview of the Fresh theme
+  description: Not Facebook
   extra:
     - name: 'og:type'
       value: website
