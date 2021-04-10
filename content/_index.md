@@ -50,7 +50,7 @@ seo:
     - name: 'twitter:title'
       value: Carson H. Franklin
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Not my twitter timeline.
     - name: 'twitter:image'
       value: /images/spaceballs.jpg
       relativeUrl: true
