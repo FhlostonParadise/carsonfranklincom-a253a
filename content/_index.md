@@ -29,30 +29,30 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Carson H. Franklin
+  description: Not Facebook
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Carson H. Franklin
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Not a facebook timeline.
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /images/ultra-dolphin.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Carson H. Franklin
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Not my twitter timeline.
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/spaceballs.jpg
       relativeUrl: true
 layout: advanced
 ---
