@@ -15,6 +15,10 @@ seo:
       value: Fhloston Paradise
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 subtitle: '"Everything We Create, We Use to Destroy"'
