@@ -1,6 +1,6 @@
 ---
 title: My Secret Life
-subtitle: 'a.k.a. '
+subtitle: 'a.k.a. "My '
 date: '2021-04-12'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
