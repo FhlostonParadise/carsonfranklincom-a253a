@@ -565,7 +565,7 @@ models:
         label: Description
         description: The page description that goes into the <meta name="description"> tag
         default: ''
-          - type: list
+      - type: list
       name: tags
       label: Tag List
       items:
