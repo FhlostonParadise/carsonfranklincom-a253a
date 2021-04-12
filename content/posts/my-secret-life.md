@@ -1,7 +1,7 @@
 ---
 title: My Secret Alternate Life
 date: '2021-04-12'
-thumb_img_alt: 'on'
+thumb_img_alt: on-stage
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
