@@ -8,7 +8,7 @@ excerpt: >-
   times, I'm sure the whole block is well aware.
 seo:
   title: My Secret Life
-  description: ''
+  description: 'In an alternate universe, there exists a version of myself.......'
   robots:
     - all
   extra: []
