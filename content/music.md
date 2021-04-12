@@ -10,6 +10,7 @@ seo:
   type: stackbit_page_meta
 layout: page
 subtitle: '"Everything We Create, We Use to Destroy"'
+img_path: images/FP-FINAL-04.jpg
 ---
 # My Secret Life
 
