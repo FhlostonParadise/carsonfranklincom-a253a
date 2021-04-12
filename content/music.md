@@ -6,7 +6,11 @@ seo:
   description: '"Everything We Create, We Use to Destroy"'
   robots:
     - all
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/interesting-giraffe.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 subtitle: '"Everything We Create, We Use to Destroy"'
