@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 subtitle: Not As Controversial As It Sounds.....
+thumb_img_path: images/cbros.jpg
 ---
 In one of the alternate universes to this one, a version of myself pushed through his trepidation, and found just enough luck to make music his life's work. Sometimes I think I envy that person, other times I believe he envies me. Had I found even marginal success, I'd probably find myself trapped by my own, and by other's expectations.
 
