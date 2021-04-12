@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: My Secret Life
 subtitle: lorem-ipsum
 date: '2021-04-12'
 thumb_img_alt: lorem-ipsum
