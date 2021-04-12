@@ -567,7 +567,7 @@ models:
         default: ''
       - type: list
         name: tags
-      label: Tag List
+        label: Tag List
       items:
         type: string
       - type: list
