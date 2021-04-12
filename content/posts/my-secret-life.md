@@ -30,7 +30,7 @@ subtitle: Not As Controversial As It Sounds.....
 thumb_img_path: images/cbros.jpg
 content_img_path: images/cbros.jpg
 ---
-In one of the alternate universes to this one, a version of myself pushed through his trepidation, and found just enough luck to make music his life's work. Sometimes I think I envy that person, other times I believe he envies me. Had I found even marginal success, I'd probably find myself trapped by my own, and by other's expectations.
+Somewhere, there exists a version of myself that pushed through his trepidation, and found just enough luck to make music his life's work. Sometimes I think I envy that person, other times I believe he envies me. Had I found even marginal success, I'd probably find myself trapped by my own, and by other's expectations.
 
 A few years ago, I heard a guy named Joel Zimmerman talk about this. He really wanted to explore releasing an album of music he composed that would be recorded and performed by a traditional musical orchestra. While I'm sure nothing could actually prevent him from doing so, he still felt the potential negative response was enough to dissuade him from trying (for now). Joel has since found enough success that I'm sure he could retain the world's top classical orchestra for several years to do nothing else than work with him.
 
