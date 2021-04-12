@@ -12,7 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-subtitle: 'Not '
+subtitle: 'Not as '
 ---
 ## Lorem ipsum
 
