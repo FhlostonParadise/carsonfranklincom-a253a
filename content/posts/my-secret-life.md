@@ -20,6 +20,10 @@ seo:
       value: article
       keyName: property
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 subtitle: Not As Controversial As It Sounds.....
