@@ -7,7 +7,7 @@ excerpt: >-
   My neighbors would probably disagree with my description of "secret". At
   times, I'm sure the whole block is well aware.
 seo:
-  title: ''
+  title: My Secret Life
   description: ''
   robots:
     - all
