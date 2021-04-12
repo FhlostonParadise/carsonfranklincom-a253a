@@ -27,7 +27,7 @@ params:
         url: /professional/
         style: link
       - label: Music
-        url: /music/
+        url: /music/index.html
         style: link
     has_social: true
     social_links:
