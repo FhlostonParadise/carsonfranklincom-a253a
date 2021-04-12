@@ -1,6 +1,6 @@
 ---
 title: Fhloston Paradise
-img_alt: Fhloston
+img_alt: Fhloston Paradise
 seo:
   title: ''
   description: ''
