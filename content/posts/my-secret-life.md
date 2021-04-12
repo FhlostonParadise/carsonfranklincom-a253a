@@ -12,7 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-subtitle: 'Not as Controversial '
+subtitle: Not as Controversial as it Sounds
 ---
 ## Lorem ipsum
 
