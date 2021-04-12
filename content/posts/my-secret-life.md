@@ -5,7 +5,7 @@ thumb_img_alt: on-stage
 content_img_alt: on-stage
 excerpt: >-
   My neighbors would probably disagree with my description of "secret". At
-  times, 
+  times, I'm sure the whole block is well aware.
 seo:
   title: ''
   description: ''
