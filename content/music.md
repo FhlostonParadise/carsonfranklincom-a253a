@@ -9,7 +9,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
-subtitle: 'Everything We Create, We Use to Destroy'
+subtitle: 'Everything We Create, We Use to Destroy"'
 ---
 ## Lorem ipsum
 
