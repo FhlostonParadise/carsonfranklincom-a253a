@@ -16,6 +16,10 @@ seo:
       value: /images/cbros.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 subtitle: Not As Controversial As It Sounds.....
