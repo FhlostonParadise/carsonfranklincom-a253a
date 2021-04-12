@@ -25,7 +25,7 @@ sections:
     title: Recent Posts
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: View Posts
         url: blog/index.html
         style: button
 seo:
