@@ -19,6 +19,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'twitter:image'
+      value: /images/FP-FINAL-04.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 subtitle: '"Everything We Create, We Use to Destroy"'
