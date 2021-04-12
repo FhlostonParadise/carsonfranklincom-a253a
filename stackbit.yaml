@@ -569,7 +569,7 @@ models:
         name: tags
         label: Tag List
         items:
-        type: string
+          type: string
       - type: list
         name: robots
         label: Robots
