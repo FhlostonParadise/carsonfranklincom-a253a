@@ -11,6 +11,10 @@ seo:
       value: /images/interesting-giraffe.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: Fhloston Paradise
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 subtitle: '"Everything We Create, We Use to Destroy"'
