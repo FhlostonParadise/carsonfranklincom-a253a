@@ -566,6 +566,11 @@ models:
         description: The page description that goes into the <meta name="description"> tag
         default: ''
       - type: list
+        name: tags
+        label: Tag List
+        items:
+          type: string
+      - type: list
         name: robots
         label: Robots
         description: The items that go into the <meta name="robots"> tag
