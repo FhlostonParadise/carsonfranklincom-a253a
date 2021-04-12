@@ -3,7 +3,7 @@ title: Fhloston Paradise
 img_alt: Fhloston Paradise
 seo:
   title: Fhloston Paradise
-  description: ''
+  description: '"Everything We Create, We Use to Destroy"'
   robots:
     - all
   extra: []
