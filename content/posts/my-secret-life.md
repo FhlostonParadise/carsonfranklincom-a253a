@@ -3,7 +3,7 @@ title: My Secret Alternate Life
 date: '2021-04-12'
 thumb_img_alt: on-stage
 content_img_alt: on-stage
-excerpt: 'My neighbors would probably disagree with my description of '
+excerpt: My neighbors would probably disagree with my description of "secret".
 seo:
   title: ''
   description: ''
