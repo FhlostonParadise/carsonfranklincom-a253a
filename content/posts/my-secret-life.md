@@ -1,6 +1,6 @@
 ---
 title: My Secret Alternate Life
-date: '2020-10-12'
+date: '2020-10-15'
 thumb_img_alt: on-stage
 content_img_alt: on-stage
 excerpt: >-
