@@ -568,7 +568,7 @@ models:
       - type: list
         name: tags
         label: Tag List
-      items:
+        items:
         type: string
       - type: list
         name: robots
