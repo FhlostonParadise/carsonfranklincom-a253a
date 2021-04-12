@@ -1,5 +1,5 @@
 ---
-title: My Secret Life
+title: My Secret Alternate Life
 date: '2021-04-12'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
