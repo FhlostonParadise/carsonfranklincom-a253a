@@ -11,7 +11,11 @@ seo:
   description: 'In an alternate universe, there exists a version of myself.......'
   robots:
     - all
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/cbros.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 subtitle: Not As Controversial As It Sounds.....
