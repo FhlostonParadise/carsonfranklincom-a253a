@@ -1,0 +1,57 @@
+---
+label: post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: file
+  name: thumb_img_path
+  label: thumb_img_path
+- type: text
+  name: thumb_img_alt
+  label: thumb_img_alt
+- type: file
+  name: content_img_path
+  label: content_img_path
+- type: text
+  name: content_img_alt
+  label: content_img_alt
+- type: field_group
+  name: seo
+  label: seo
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: description
+    label: description
+  - type: field_group_list
+    name: extra
+    label: extra
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: value
+      label: value
+    - type: text
+      name: keyName
+      label: keyName
+- type: text
+  name: layout
+  label: layout
+- type: textarea
+  name: excerpt
+  label: excerpt
