@@ -21,7 +21,7 @@ params:
         url: /blog/
         style: link
       - label: Projects
-        url: /projects/
+        url: /tags/
         style: link
       - label: Professional
         url: /professional/
