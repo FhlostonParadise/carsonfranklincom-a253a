@@ -9,24 +9,23 @@ categories:
 thumb_img_path: images/laser.jpg
 thumb_img_alt: RGB Laser
 content_img_path: images/laser.jpg
-content_img_alt: Icelandic horses
+content_img_alt: Laser
 seo:
-  title: Fragments of Iceland
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  title: 3 Watt DIY RGB Laser Projector
+  description: Adventures in Lasers and Optics
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fragments of Iceland
+      value: 3 Watt RGB Laser Projector
       keyName: property
     - name: 'og:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        Adventures in Lasers and Optics
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: images/laser.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,10 +34,9 @@ seo:
       value: Fragments of Iceland
     - name: 'twitter:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        Adventures in Lasers and Optics
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: images/laser.jpg
       relativeUrl: true
 layout: post
 excerpt: >-
