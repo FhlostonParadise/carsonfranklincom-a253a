@@ -20,7 +20,7 @@ params:
       - label: Posts
         url: /blog/
         style: link
-      - label: Projects
+      - label: Tags
         url: /tags/
         style: link
       - label: Professional
