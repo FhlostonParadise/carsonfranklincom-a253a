@@ -2,15 +2,20 @@
 title: ATX Benchtop Power Supply
 excerpt: 'There are many like it, but this is my ATX Benchtop Power Supply...'
 date: '2021-03-10'
+tags:
+    - DIY
+    - Hardware
+    - Projects
+categories:
+    - Personal
 thumb_img_path: images/20210210_235748.jpg
 thumb_img_alt: Hikers on the trail
 content_img_path: images/20210210_235748.jpg
 content_img_alt: ATX PSU
 seo:
-  title: Hiking The Grand Canyon
+  title: ATX Benchtop Power Supply
   description: >-
-    The Grand Canyon is a steep-sided canyon carved by the Colorado River in
-    Arizona
+    Using an old PC's power supply as the guts of a variable bench power supply.
   extra:
     - name: 'og:type'
       value: article

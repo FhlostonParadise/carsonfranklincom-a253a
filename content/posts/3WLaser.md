@@ -4,8 +4,9 @@ date: '2021-03-27'
 tags:
     - DIY
     - Lasers
-categories:
     - Projects
+categories:
+    - Personal
 thumb_img_path: images/laser.jpg
 thumb_img_alt: RGB Laser
 content_img_path: images/laser.jpg
