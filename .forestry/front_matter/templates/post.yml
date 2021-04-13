@@ -14,6 +14,12 @@ fields:
 - type: list
   name: categories
   label: categories
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: text
+  name: layout
+  label: layout
 - type: file
   name: thumb_img_path
   label: thumb_img_path
@@ -49,9 +55,3 @@ fields:
     - type: text
       name: keyName
       label: keyName
-- type: text
-  name: layout
-  label: layout
-- type: textarea
-  name: excerpt
-  label: excerpt
