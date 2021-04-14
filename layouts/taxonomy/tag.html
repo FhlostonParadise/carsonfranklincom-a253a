@@ -1,7 +1,28 @@
-<ul>
-    {{ range .Data.Pages }}
-    <li>
-      <a href="{{.RelPermalink}}">{{ .Title }}</a>
-    </li>
+{{ define "content" }}
+
+  <article class="post page post-full">
+    <header class="post-header inner-sm">
+      <h1 class="post-title underline">Tags</h1>
+    </header>
+    {{ if .Params.img_path }}
+    <div class="post-image">
+      <img src="{{ $.Params.img_path | relURL }}" alt="{{ $.Params.img_alt }}" />
+    </div>
     {{ end }}
-  </ul>
+    <div class="post-content inner-sm">
+      <ul>
+        {{ range .Data.Pages }}
+        <li>
+          <a href="{{.RelPermalink}}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </article><!-- .post -->
+
+{{ end }}
+
+
+
+
+

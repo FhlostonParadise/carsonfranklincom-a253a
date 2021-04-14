@@ -21,11 +21,11 @@
       <time class="published"
         datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "Monday, January 2, 2006" }}</time>
       <!-- layouts/blog/single.html -->
+      </footer>
       <div>
         <b>Post Tagged With: </b>
         {{ partial "tags.html" .}}
       </div>
-      </footer>
   </article><!-- .post -->
   {{ template "_internal/disqus.html" . }}
 {{ end }}
