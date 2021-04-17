@@ -30,4 +30,4 @@ IT Executive / Technical Co-Founder with 20 years of experience in designing, im
 *   Supported IT Systems for clients located in the Monterey, San Jose, and San Francisco areas.
 *   Performed remote and on-site deployments of traditional and wireless networking infrastructure from Cisco, SonicWall, HP, Juniper Networks, Ubiquiti, and Meraki.
 *   Performed remote and on-site deployments of Microsoft Server, Sco Unix, Ubuntu Linux, and Redhat Linux based systems.
-*   Designed and 
+*   Designed and managed 
