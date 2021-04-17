@@ -9,4 +9,4 @@ IT Executive / Technical Co-Founder with 20 years of experience in designing, im
 
 ## Expierience
 
-President / Co-Founder | Franklin Technology Management, Inc.
+### President / Co-Founder | Franklin Technology Management, Inc.
