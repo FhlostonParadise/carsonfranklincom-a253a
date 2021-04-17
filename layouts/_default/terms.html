@@ -4,7 +4,7 @@
 
 {{ define "content" }}
     <div class="post">
-        <h1><i class="fas fa-tags"></i> {{ .Title }}</h1>
+        <h1>{{ .Title }}</h1>
         {{ .Content }}
 
     <!-- create a list with all uppercase letters -->
@@ -23,10 +23,10 @@
         {{ if ne $firstChar $curLetter }}
         <!-- update the current letter and print it -->
           {{ $.Scratch.Set "curLetter" $firstChar }}
-          <span class="letter">{{ $firstChar }}</span><br />
+          <br />
         {{ end }}
 
-       <a class="badge badge-tag-list-page" href="{{ .Page.Permalink }}"><i class="fas fa-tags"></i> {{ .Page.Title }} ({{ .Count }})</a>
+       <a class="badge badge-tag-list-page" href="{{ .Page.Permalink }}"> {{ .Page.Title }} ({{ .Count }})</a>
       {{ end }}
     {{ end }}
     </div>

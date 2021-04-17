@@ -54,6 +54,7 @@ params:
   footer:
     content: '&copy; Carson H Franklin. All rights reserved.'
   domain: 'https://carsonfranklin.com'
+enableEmoji: true
 taxonomies:
   category: categories
   tag: tags
