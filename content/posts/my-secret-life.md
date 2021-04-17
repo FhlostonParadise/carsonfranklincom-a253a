@@ -3,6 +3,10 @@ title: My Secret Alternate Life
 date: '2020-10-15'
 thumb_img_alt: on-stage
 content_img_alt: on-stage
+tags:
+    - Music
+categories:
+    - Personal
 excerpt: >-
   My neighbors would probably disagree with my description of "secret". At
   times, I'm sure the whole block is well aware.

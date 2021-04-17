@@ -54,12 +54,10 @@ params:
   footer:
     content: '&copy; Carson H Franklin. All rights reserved.'
   domain: 'https://carsonfranklin.com'
+enableEmoji: true
 taxonomies:
-  stub: stub
-disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+  category: categories
+  tag: tags
 disqusShortname: cfcom
 googleAnalytics: G-VQVV918XGM
 markup:

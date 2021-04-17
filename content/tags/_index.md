@@ -1,4 +1,4 @@
 ---
 title: Tags
-layout: page
+layout: taxonomy
 ---
