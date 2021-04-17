@@ -2,4 +2,4 @@
 title: Resume / CV
 layout: page
 ---
-# Resume / CV
+#### Some Information Redacted
