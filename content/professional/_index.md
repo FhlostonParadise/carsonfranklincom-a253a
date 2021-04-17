@@ -17,4 +17,5 @@ IT Executive / Technical Co-Founder with 20 years of experience in designing, im
 *   Was recognized as one of The Channel Co's fastest growing Managed Service Providers in 2015, 2016, 2017.
 ### Co-Founder | 1Up Cloud, LLC (2017 -2019)
 *   Co-Founded an LLC with 3 other partners to provide web design, hosting, and digital marketing services to small and mid-size businesses.
+
 *    Designed, implemented, and supported a fully customized hosting platform based on Amazon Web Services (S3, Route 53, EC2), Microsoft Office 365, Docker, and Ubuntu Linux.
