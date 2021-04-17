@@ -33,5 +33,5 @@ IT Executive / Technical Co-Founder with 20 years of experience in designing, im
 *   Designed and managed technology deployment projects for mid-market and enterprise clients.
 
 ### Senior Systems Engineer | Applied Digital Solutions, Inc. (2001-2005)
-* Managed and supported IT systems for clients in the Monterey / Salinas area.
+*   Managed and supported IT systems for clients in the Monterey / Salinas area.
 *   
