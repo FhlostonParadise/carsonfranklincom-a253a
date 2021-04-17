@@ -11,7 +11,6 @@ IT Executive / Technical Co-Founder with 20 years of experience in designing, im
 ### President / Co-Founder | Franklin Technology Management, Inc. (2007-Present)
 
 *   Planned, executed, and supported complex IT Projects for a variety of clients ranging from small to mid-sized private businesses, state and local governments, and local law enforcement to larger enterprise and federal organizations.
-
 *   Guided organizations through major changes to IT operations, including shifts from traditional on-site technology (PC’s and Servers) to fully hosted and managed cloud solutions (Server Virtualization/Containerization and Desktop-as-a-Service / VDI systems).
 
 *   Acted as a Virtual CIO (vCIO), to set strategic priorities; assisted with regulatory and compliance matters; and managed day to day technology direction.
