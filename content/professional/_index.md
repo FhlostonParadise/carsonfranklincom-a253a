@@ -21,7 +21,7 @@ IT Executive / Technical Co-Founder with 20 years of experience in designing, im
 
 ### Founder | Elevate Cloud Solutions, Inc. (2019 - Present)
 
-*   • Managed the formation of the corporation as a legal entity in the state of Delaware to do business in California.
+*   Managed the formation of the corporation as a legal entity in the state of Delaware to do business in California.
 • Pitched the business concept to outside investors from Angel and Venture Capital organizations.
 • Secured outside investors, managed and formed an advisory board made up of business leaders, attorneys, successful entrepreneurs and investors.
 • Delivered a full due diligence package that included an in-depth go-to-market plan, analysis on current cloud-computing trends, competitive analysis, and a full proof-of-concept system based on Microsoft Azure, Citrix, VMWare, and Microsoft Server 2019.
