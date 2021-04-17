@@ -15,7 +15,6 @@ IT Executive / Technical Co-Founder with 20 years of experience in designing, im
 *   Acted as a Virtual CIO (vCIO), to set strategic priorities; assisted with regulatory and compliance matters; and managed day to day technology direction.
 *   Oversaw the management and operations of a successful technology services company, which led to the foundation of 2 complimentary IT business, one providing web design and digital marketing services, and the other specializing in hosted desktops and remote workspace solutions.
 *   Was recognized as one of The Channel Co's fastest growing Managed Service Providers in 2015, 2016, 2017.
-
 ### Co-Founder | 1Up Cloud, LLC (2017 -2019)
 
 *   Co-Founded an LLC with 3 other partners to provide web design, hosting, and digital marketing services to small and mid-size businesses.
