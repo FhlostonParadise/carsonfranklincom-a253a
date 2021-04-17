@@ -8,7 +8,7 @@ IT Executive / Technical Co-Founder with 20 years of experience in designing, im
 
 ## Experience
 
-### President / Co-Founder | Franklin Technology Management, Inc.
+### President / Co-Founder | Franklin Technology Management, Inc. (2007-Present)
 
 *   Planned, executed, and supported complex IT Projects for a variety of clients ranging from small to mid-sized private businesses, state and local governments, and local law enforcement to larger enterprise and federal organizations.
 
