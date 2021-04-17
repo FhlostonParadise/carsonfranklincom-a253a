@@ -27,6 +27,6 @@ IT Executive / Technical Co-Founder with 20 years of experience in designing, im
 *   Delivered a full due diligence package that included an in-depth go-to-market plan, analysis on current cloud-computing trends, competitive analysis, and a full proof-of-concept system based on Microsoft Azure, Citrix, VMWare, and Microsoft Server 2019.
 
 ### Senior Systems Engineer | US Wired, Inc. (2005-2007)
-*   Supported IT Systems for clients located in the Monterey, San Jose, and San Francisco.
+*   Supported IT Systems for clients located in the Monterey, San Jose, and San Francisco areas.
 •  Performed remote and on-site deployments of traditional and wireless networking infrastructure from Cisco, SonicWall, HP, Juniper Networks, Ubiquiti, and Meraki.
 •  Performed remote and on-site deployments of Microsoft Server, Sco Unix, Ubuntu Linux, and Redhat Linux based systems.
