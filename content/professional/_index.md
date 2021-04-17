@@ -35,3 +35,4 @@ IT Executive / Technical Co-Founder with 20 years of experience in designing, im
 ### Senior Systems Engineer | Applied Digital Solutions, Inc. (2001-2005)
 *   Managed and supported IT systems for clients in the Monterey / Salinas area.
 *   Supported and deployed a nation-wide network upgrade for Wyndham Internation. This included on-site deployments in New York, Washington D.C., Miami, Baltimore, Boston, and San Diego.
+* 
