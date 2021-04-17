@@ -23,4 +23,4 @@ IT Executive / Technical Co-Founder with 20 years of experience in designing, im
 ### Co-Founder | 1Up Cloud, LLC (2017 -2019)
 
 *   Co-Founded an LLC with 3 other partners to provide web design, hosting, and digital marketing services to small and mid-size businesses.
-    Designed, implemented, and supported a fully customized hosting platform based on Amazon Web Services (S3, Route 53, EC2), Microsoft Office 365, Docker, and Ubuntu Linux.
+*    Designed, implemented, and supported a fully customized hosting platform based on Amazon Web Services (S3, Route 53, EC2), Microsoft Office 365, Docker, and Ubuntu Linux.
