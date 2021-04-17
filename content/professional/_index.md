@@ -26,4 +26,4 @@ IT Executive / Technical Co-Founder with 20 years of experience in designing, im
 *   Secured outside investors, managed and formed an advisory board made up of business leaders, attorneys, successful entrepreneurs and investors.
 *   Delivered a full due diligence package that included an in-depth go-to-market plan, analysis on current cloud-computing trends, competitive analysis, and a full proof-of-concept system based on Microsoft Azure, Citrix, VMWare, and Microsoft Server 2019.
 
-### Senior Systems Engineer | US Wired, Inc. (20)
+### Senior Systems Engineer | US Wired, Inc. (2005-2007)
