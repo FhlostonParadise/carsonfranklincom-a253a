@@ -20,3 +20,5 @@ IT Executive / Technical Co-Founder with 20 years of experience in designing, im
 *    Designed, implemented, and supported a fully customized hosting platform based on Amazon Web Services (S3, Route 53, EC2), Microsoft Office 365, Docker, and Ubuntu Linux.
 
 ### Founder | Elevate Cloud Solutions, Inc. (2019 - Present)
+
+*   
