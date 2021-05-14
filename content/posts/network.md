@@ -15,6 +15,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/energetic-mustard.png
+content_img_path: images/energetic-mustard.png
 ---
 ## Some Background
 
