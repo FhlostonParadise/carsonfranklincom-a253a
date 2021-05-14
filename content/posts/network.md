@@ -2,7 +2,7 @@
 title: Casa de Franklin - Logical Layout
 subtitle: Doesn't Everyone Do This?
 date: '2021-05-14'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: network
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
