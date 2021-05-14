@@ -5,7 +5,7 @@ date: '2021-05-14'
 thumb_img_alt: network
 content_img_alt: network
 seo:
-  title: ''
+  title: Casa de Franklin - Logical Layout
   description: ''
   tags: []
   robots:
