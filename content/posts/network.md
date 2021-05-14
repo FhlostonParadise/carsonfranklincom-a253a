@@ -15,7 +15,9 @@ seo:
 layout: post
 thumb_img_path: images/energetic-mustard.png
 content_img_path: images/energetic-mustard.png
-excerpt: 'A breakdown of '
+excerpt: >-
+  A breakdown of the systems I use for my home network. It's more than you might
+  think.... 
 ---
 ## Some Background
 
