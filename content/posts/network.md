@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Casa de Franklin - Logical Layout
 subtitle: lorem-ipsum
 date: '2021-05-14'
 thumb_img_alt: lorem-ipsum
