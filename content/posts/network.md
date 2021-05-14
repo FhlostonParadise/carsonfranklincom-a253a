@@ -15,9 +15,13 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## Some Background
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+As I started adding bits of technology to my home network I started to realize it was looking more and more like a network I might encounter at a client's office. I decided that if that was the case, I should document it in the same way. I'm glad I did. I've completely rebuilt it quite a few times, and having the documentation on each service with notes on why things were setup a certain way saved me a lot of time. Here is the latest iteration of it with some specific details redacted.
 
-- Lorem ipsum
-- dolor sit amet
+
+
+![](/images/energetic-mustard.png)
+
+
+
