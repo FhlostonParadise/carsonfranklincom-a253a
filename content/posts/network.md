@@ -6,7 +6,7 @@ thumb_img_alt: network
 content_img_alt: network
 seo:
   title: Casa de Franklin - Logical Layout
-  description: ''
+  description: Some of my client's have far less complex networks...
   tags: []
   robots:
     - all
