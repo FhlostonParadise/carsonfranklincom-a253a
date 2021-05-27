@@ -7,7 +7,7 @@ content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: 'The Tourbillon Mechanica'
-  description: ''
+  description: 'A Fully Functional '
   tags: 
   tags:
     - DIY
