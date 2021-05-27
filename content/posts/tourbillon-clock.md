@@ -1,6 +1,6 @@
 ---
 title: The Tourbillon Mechanica
-subtitle: lorem-ipsum
+subtitle: A Fully Functional and Fully 3D Printed Mechanical Clock
 date: '2021-05-27'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
