@@ -38,3 +38,16 @@ Here is a video of the clock in action. The first is a normal speed version that
 
 {{< vimeo 555576890>}}
 
+
+
+I've also included some photos I took along the way.
+
+![](/\_static/app-assets/20210519\_160556.jpg)
+
+
+
+![](/\_static/app-assets/20210520\_125338.jpg)
+
+![](/\_static/app-assets/20210520\_125027.jpg)
+
+![](/\_static/app-assets/20210520\_130405.jpg)
