@@ -21,6 +21,7 @@ seo:
       relativeUrl: true
   type: stackbit_page_meta
 layout: post
+thumb_img_path: images/20210524_125755.jpg
 ---
 ## Lorem ipsum
 
