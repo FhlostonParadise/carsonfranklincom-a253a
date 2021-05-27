@@ -8,7 +8,11 @@ excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
-  tags: []
+  tags: 
+  tags:
+    - DIY
+    - Lasers
+    - Projects
   robots:
     - all
   extra: []
