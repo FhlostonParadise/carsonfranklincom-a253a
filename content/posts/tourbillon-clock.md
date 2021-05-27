@@ -8,7 +8,6 @@ excerpt: lorem-ipsum
 seo:
   title: 'The Tourbillon Mechanica'
   description: 'A Fully Functional and Fully 3D Printed Mechanical Clock'
-  tags: 
   tags:
     - DIY
     - 3D-Printing
