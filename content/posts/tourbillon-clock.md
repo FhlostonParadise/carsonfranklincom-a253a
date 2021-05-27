@@ -11,7 +11,7 @@ seo:
   tags: 
   tags:
     - DIY
-    - 3DPrinting
+    - 3D-Printing
     - Projects
   robots:
     - all
