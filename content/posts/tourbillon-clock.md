@@ -6,15 +6,19 @@ thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
-  title: 'The Tourbillon Mechanica'
-  description: 'A Fully Functional and Fully 3D Printed Mechanical Clock'
+  title: The Tourbillon Mechanica
+  description: A Fully Functional and Fully 3D Printed Mechanical Clock
   tags:
     - DIY
     - 3D-Printing
     - Projects
   robots:
     - all
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /_static/app-assets/20210524_125755.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 ---
