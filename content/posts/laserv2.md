@@ -1,5 +1,5 @@
 ---
-title: Laser Version
+title: Laser Version 2
 subtitle: lorem-ipsum
 date: '2021-07-19'
 thumb_img_alt: lorem-ipsum
