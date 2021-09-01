@@ -42,3 +42,4 @@ As I started adding bits of technology to my home network I started to realize i
 *   Traefik - Huge fan of this software. It was not a walk in the park to learn and configure correctly, but it really paid off. I don't know if I would recommend it to someone just getting into the self-hosted / home automation world unless they have some serious time to learn it.
 
 *   Docker - Wrapping as much as I can into a containerized system like docker makes it very simple for me to rebuild things in the event they do down. In a world of microservices, docker seems like a great fit. I think the next rebuild may be a dive into Kubernetes. 
+
